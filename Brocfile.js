@@ -17,6 +17,7 @@ var app = new EmberApp({
 
 // Style Assets
 app.import('vendor/bootstrap/dist/css/bootstrap.css');
+app.import('vendor/bootstrap/dist/js/bootstrap.js');
 
 
 
